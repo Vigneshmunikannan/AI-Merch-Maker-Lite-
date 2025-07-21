@@ -1,3 +1,4 @@
+
 # 🎨 AI Merch Maker Lite – Simplified Edition
 
 A minimal, end-to-end pipeline simulating AI-powered merch creation using **Python**, **Node.js**, **Java**, and **JavaScript**. This lightweight project showcases how to generate a product, create a mock-up, and publish it—all using built-in libraries and a single sample image. No paid APIs. No external dependencies.
@@ -28,3 +29,14 @@ Make sure the following are installed:
 ```bash
 git clone https://github.com/yourusername/AI-Merch-Maker-Lite.git
 cd ai-merch-maker-lite
+
+
+### 2 
+```bash
+cd java
+javac ProductPublisher.java
+java ProductPublisher
+
+### 3.Run pipeline
+python orchestrator/pipeline_orchestrator.py vintage
+
