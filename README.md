@@ -32,7 +32,6 @@ cd ai-merch-maker-lite
 
 
 ### 2 
-```bash
 cd java
 javac ProductPublisher.java
 java ProductPublisher
